@@ -1,4 +1,4 @@
-###👋, Hi! I'm Kasukami.
+### Hi! I'm Kasukami.
 #### I love coding and I'm a little bit addicted to coding.
 ![I love coding and I'm a little bit addicted to coding.](https://github.com/Kasukami/Kasukami/blob/main/2_-1.gif)
 
