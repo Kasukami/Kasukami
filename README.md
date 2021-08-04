@@ -3,14 +3,14 @@
 ![I love coding and I'm a little bit addicted to coding.](https://github.com/Kasukami/Kasukami/blob/main/2_-1.gif)
 
 
+Languages/Techs what I know: **C#, Lua, VB, JavaScript, Node.JS, React.JS, Material-UI, HTML, CSS**
+
+
 **My Stats;**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasukami&layout=compact)](https://github.com/kasukami/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasukami&theme=dracula&custom_title=Kasukami)](https://github.com/kasukami/github-readme-stats)
-
-
-Skills: **C#, Lua, VB, JavaScript, Node.JS, React.JS, Material-UI, HTML, CSS**
 
 
 
