@@ -20,3 +20,6 @@ Languages/Techs what I know: **C#, Lua, VB, JavaScript, Node.JS, React.JS, Mater
 
 
 ![S P A C E](https://github.com/Kasukami/Kasukami/blob/main/2_-1.gif)
+
+
+**I'll update and edit this readme section later.**
