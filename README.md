@@ -4,9 +4,8 @@
 
 
 **My Stats;**
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasukami&theme=dracula&custom_title=Kasukami)](https://github.com/kasukami/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasukami&layout=compact)](https://github.com/kasukami/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasukami&theme=dracula&custom_title=Kasukami)](https://github.com/kasukami/github-readme-stats)
 
 
 Skills: **C#, Lua, VB, JavaScript, Node.JS, React.JS, Material-UI, HTML, CSS**
@@ -14,7 +13,5 @@ Skills: **C#, Lua, VB, JavaScript, Node.JS, React.JS, Material-UI, HTML, CSS**
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kasukami)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/users/853287146395533324)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kasukami)  
 
 ![Profile views](https://gpvc.arturio.dev/kasukami)  
