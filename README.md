@@ -1,7 +1,6 @@
 ### Hi! I'm Kasukami.
 #### I love coding and I'm a little bit addicted to coding.
-![I love coding and I'm a little bit addicted to coding.](https://github.com/Kasukami/Kasukami/blob/main/2_-1.gif)
-
+![I love coding and I'm a little bit addicted to coding.]
 
 Languages/Techs what I know: **C#, Lua, VB, JavaScript, Node.JS, React.JS, Material-UI, HTML, CSS**
 
@@ -17,3 +16,8 @@ Languages/Techs what I know: **C#, Lua, VB, JavaScript, Node.JS, React.JS, Mater
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kasukami)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/users/853287146395533324)  
 
 ![Profile views](https://gpvc.arturio.dev/kasukami)  
+
+
+
+
+(https://github.com/Kasukami/Kasukami/blob/main/2_-1.gif)
