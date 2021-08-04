@@ -1,6 +1,5 @@
 ### Hi! I'm Kasukami.
 #### I love coding and I'm a little bit addicted to coding.
-![I love coding and I'm a little bit addicted to coding.]
 
 Languages/Techs what I know: **C#, Lua, VB, JavaScript, Node.JS, React.JS, Material-UI, HTML, CSS**
 
