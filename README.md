@@ -20,4 +20,4 @@ Languages/Techs what I know: **C#, Lua, VB, JavaScript, Node.JS, React.JS, Mater
 
 
 
-(https://github.com/Kasukami/Kasukami/blob/main/2_-1.gif)
+[](https://github.com/Kasukami/Kasukami/blob/main/2_-1.gif)
