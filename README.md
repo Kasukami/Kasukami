@@ -12,14 +12,12 @@ Languages/Techs what I know: **C#, Lua, VB, JavaScript, Node.JS, React.JS, Mater
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kasukami)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/users/853287146395533324)  
-
-![Profile views](https://gpvc.arturio.dev/kasukami)  
-
-
-
-
 ![S P A C E](https://github.com/Kasukami/Kasukami/blob/main/2_-1.gif)
 
 
 **I'll update and edit this readme section later.**
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kasukami)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/users/853287146395533324)  
+
+![Profile views](https://gpvc.arturio.dev/kasukami)  
