@@ -10,11 +10,6 @@ Languages/Techs what I know: **C#, Lua, VB, JavaScript, Node.JS, React.JS, Mater
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasukami&theme=dracula&custom_title=Kasukami)](https://github.com/kasukami/github-readme-stats)
 
-
-
-![S P A C E](https://github.com/Kasukami/Kasukami/blob/main/2_-1.gif)
-
-
 **I'll update and edit this readme section later.**
 
 
