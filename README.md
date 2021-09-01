@@ -15,4 +15,6 @@ Languages/Techs what I know: **C#, Lua, VB, JavaScript, Node.JS, React.JS, Mater
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kasukami)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/users/853287146395533324)  
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/853287146395533324)](https://discord.com/users/853287146395533324)
+
 ![Profile views](https://gpvc.arturio.dev/kasukami)  
